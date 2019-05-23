@@ -49,4 +49,4 @@ Handball / Football / Jeux vidéo / Graphisme
 [Facebook]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/facebook-icon_square_16x16.png
 [LinkedIn]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/linkedin-icon_square_16x16.png
 [Github]: https://image.noelshack.com/fichiers/2019/21/4/1558613233-github-logo.png
-[PP]: https://image.noelshack.com/fichiers/2019/21/4/1558625736-pp.png
+[PP]: https://image.noelshack.com/fichiers/2019/21/4/1558625736-pp.pn
