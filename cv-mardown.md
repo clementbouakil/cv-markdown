@@ -2,7 +2,7 @@
 # **CURRICULUM VITAE**
 
 Clément Bouakil 
-_Développeur web & web mobile_
+_Développeur web & web mobile_  
 [![Icon Facebook][Facebook]](https://www.facebook.com/clement.bouakil.3) [![Icon LinkedIn][LinkedIn]](https://www.linkedin.com/in/cl%C3%A9ment-bouakil-3679b0182/) [![Icon Github][Github]](https://github.com/clementbouakil)
 
 ## Coordonnées
