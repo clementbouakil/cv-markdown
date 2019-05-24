@@ -7,27 +7,31 @@ _Développeur web & web mobile_
 
 ## Coordonnées
 
-**Adresse** : 5 allée des veuves - 51430 - TINQUEUX FR
-**Téléphone** : 06.72.93.89.28
-**Mail** : bouakil.clement.pro@gmail.com
+**Adresse** : 5 allée des veuves - 51430 - TINQUEUX FR  
+**Téléphone** : 06.72.93.89.28  
+**Mail** : bouakil.clement.pro@gmail.com  
 25 ans - Permis B/A - Véhicule personnel
 
 ## Formations
 
-**Baccalauréat Sciences & Technologie de la Gestion**
+**Baccalauréat Sciences & Technologie de la Gestion**  
 Option communication - _Lycée Sévigné - 2011/2013_
-**BTS Management des Unités Commerciales**
+
+**BTS Management des Unités Commerciales**  
 _Lycée Colbert - 2013/2015_
-**Licence professionnelle Communication Numérique & Développement d'Applications internet**
+
+**Licence professionnelle Communication Numérique & Développement d'Applications internet**  
 _École d'ingénieur en Sciences Industrielles et Numérique - 2015/2016_
-**Formation JAVA/JEE/Spring**
+
+**Formation JAVA/JEE/Spring**  
 _Wild Code School - 2019/2020_
 
 ## Expériences
 
-**Infographiste & Web Designer**
+**Infographiste & Web Designer**  
 _Aymon Folk Festival - Stage - 3 mois - 2016_
-**Infographiste & Responsable e-Commerce**
+
+**Infographiste & Responsable e-Commerce**  
 _VPC Services - CDI - 3 ans - 2016/2019_
 
 ## Compétences
@@ -45,7 +49,7 @@ _VPC Services - CDI - 3 ans - 2016/2019_
 
 ## Langues
 
-**Français** : courant
+**Français** : courant  
 **Anglais** : courant
 
 ## Hobbies
